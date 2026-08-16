@@ -41,6 +41,9 @@ Project Status
 
 Completed as a personal learning project.
 
+Live Demo:
+https://contempodanceacademy.netlify.app/
+
 Author
 
 Navyashree B
